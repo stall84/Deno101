@@ -1,4 +1,4 @@
-import Ask from 'https://deno.land/x/ask/mod.ts';
+import { Ask } from './deps.ts';
 
 const ask = new Ask();
 
